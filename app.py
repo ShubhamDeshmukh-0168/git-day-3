@@ -10,5 +10,5 @@ db_config = {
     'host': 'database-1.cex28aeu05yi.us-east-1.rds.amazonaws.com',
     'user': 'admin',
     'password': 'admin123',
-    'database': 'dev'
+    'database': 'test'
 }
